@@ -1,0 +1,6 @@
+New trail is created
+<<<<<<< HEAD
+from Local repo
+=======
+changes in remote
+>>>>>>> e6a947340238c1cc0983ec2822e9eec3d901c811
