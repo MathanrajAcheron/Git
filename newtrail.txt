@@ -1,1 +1,2 @@
 New trail is created
+from Local repo
